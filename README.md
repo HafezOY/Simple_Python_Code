@@ -1,2 +1,2 @@
 # Simple_Python_Code
-A guided project code for creating a simple an item inventory app using python.
+A guided project code for creating a simple item inventory app using python.
